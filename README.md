@@ -1,3 +1,5 @@
 XenForo</br>
 Contacts:
-  Skype: iMakuta
+<ul>
+<li>Skype: iMakuta</li>
+</ul>
